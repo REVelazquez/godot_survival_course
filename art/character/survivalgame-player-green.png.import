@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://covv0sa3s6bqe"
-path="res://.godot/imported/apple-icon.png-db1816b23d123a70907dd30feb04d10b.ctex"
+uid="uid://bhjs0y5ccvn0y"
+path="res://.godot/imported/survivalgame-player-green.png-5e2c524209b21cd7224e5c65ef353005.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/apple-icon.png"
-dest_files=["res://.godot/imported/apple-icon.png-db1816b23d123a70907dd30feb04d10b.ctex"]
+source_file="res://art/character/survivalgame-player-green.png"
+dest_files=["res://.godot/imported/survivalgame-player-green.png-5e2c524209b21cd7224e5c65ef353005.ctex"]
 
 [params]
 

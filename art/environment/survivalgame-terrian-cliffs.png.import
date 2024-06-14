@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b0bpl8fj5rko7"
-path="res://.godot/imported/survivalgame-terrian-defult.png-88794c84ff21d479a928b7e9b6dc137d.ctex"
+uid="uid://b4b07o7ro6g1t"
+path="res://.godot/imported/survivalgame-terrian-cliffs.png-58529cac5056bdbfa54375057948d8e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/survivalgame-terrian-defult.png"
-dest_files=["res://.godot/imported/survivalgame-terrian-defult.png-88794c84ff21d479a928b7e9b6dc137d.ctex"]
+source_file="res://art/environment/survivalgame-terrian-cliffs.png"
+dest_files=["res://.godot/imported/survivalgame-terrian-cliffs.png-58529cac5056bdbfa54375057948d8e1.ctex"]
 
 [params]
 
